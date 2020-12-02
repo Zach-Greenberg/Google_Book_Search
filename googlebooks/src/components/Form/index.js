@@ -9,15 +9,15 @@ function Form(prop){
                         <h2>Search for and save Books of Interest</h2>
                     </label>
                     <input
-                        onChange={props.handleInputChange}
-                        value={props.search}
+                        onChange={prop.handleInputChange}
+                        value={prop.search}
                         name="search"
                         type="text"
                         className="form-control"
                         placeholder="Search for a Book"
                         id="search"
                     />
-                    <button onClick={props.handleFormSubmit} className="btn btn-dark mt-3 mb-5">
+                    <button onClick={prop.handleFormSubmit} className="btn btn-dark mt-3 mb-5">
                         Search
                     </button>
                 </div>

@@ -9,6 +9,7 @@ import Search from "./pages/Search";
 import Saved from "./pages/Saved";
 
 import "./App.css";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends Component {
  
