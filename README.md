@@ -35,13 +35,14 @@ Zach Greenberg
 
 ### Images
 
-![HomePage](./googlebooks/public/images/home.jpg)
+![HomePage](./client/public/images/home.jpg)
 
-![Searched](./googlebooks/public/images/searched.jpg)
+![Searched](./client/public/images/searched.jpg)
 
+![Saved](./client/public/images/saved.jpg)
 ### Demo
 
-![Demo]()
+![Demo](./client/public/images/demo.gif)
 
 #### CopyRight
 

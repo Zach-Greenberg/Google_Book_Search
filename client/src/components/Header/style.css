@@ -1,3 +1,7 @@
 .jumbotron {
-    background-image: url(library.png);
+    background-image: url(books.jpg);
+}
+
+h1 {
+    color: black;
 }
