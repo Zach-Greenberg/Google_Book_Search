@@ -35,9 +35,9 @@ Zach Greenberg
 
 ### Images
 
-![HomePage]()
+![HomePage](./googlebooks/public/images/home.jpg)
 
-![Searched]()
+![Searched](./googlebooks/public/images/searched.jpg)
 
 ### Demo
 
